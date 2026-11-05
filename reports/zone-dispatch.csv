@@ -1,0 +1,4 @@
+zone,enabled_nodes,reachable_nodes,stranded_loads,condition
+North,3,3,0,CLEAR
+South,3,2,1,DISPATCH
+West,1,0,1,DISPATCH
