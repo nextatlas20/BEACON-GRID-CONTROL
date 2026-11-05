@@ -1,0 +1,8 @@
+node_id,zone,kind,reachable,source_node,hops
+N-001,North,SOURCE,YES,N-001,0
+N-002,North,RELAY,YES,N-001,1
+N-003,North,LOAD,YES,N-001,2
+N-004,South,SOURCE,YES,N-004,0
+N-005,South,LOAD,YES,N-004,1
+N-007,South,LOAD,NO,,
+N-008,West,LOAD,NO,,
