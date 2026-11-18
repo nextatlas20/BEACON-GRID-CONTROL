@@ -1,0 +1,9 @@
+node_id,zone,kind,enabled
+N-001,North,SOURCE,YES
+N-002,North,RELAY,YES
+N-003,North,LOAD,YES
+N-004,South,SOURCE,YES
+N-005,South,LOAD,YES
+N-006,South,RELAY,NO
+N-007,South,LOAD,YES
+N-008,West,LOAD,YES
